@@ -1,0 +1,4 @@
+:HL["/ekin-fries/_next/static/chunks/1-oqj6fxgap0a.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"T_mBnbGUY0Brm_QjMIWnX","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

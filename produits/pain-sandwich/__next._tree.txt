@@ -1,0 +1,8 @@
+:HL["/ekin-fries/_next/static/chunks/1-oqj6fxgap0a.css","style"]
+:HL["/ekin-fries/_next/static/media/c6a5c2fdc12da45c-s.p.17-aodiw50953.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ekin-fries/_next/static/media/e63b65bb308a9351-s.p.3j3877k49yy0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://ekinfries.fr/wp-content/uploads/2026/09/pain-sandwich-ekin-fries.webp","image",{"fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"pain-sandwich","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"produits","h":131136,"c":"$Q2"}]]
+0:{"b":"T_mBnbGUY0Brm_QjMIWnX","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
